@@ -1,4 +1,8 @@
-header{
+.light-grey{
+    background-color: rgb(58, 84, 109);
+}
+
+.dark-grey{
     background-color: rgb(44, 62, 80);
 }
 
@@ -9,3 +13,39 @@ header ul{
 header ul li{
     display: inline;
 }
+
+#jumbotron{
+    text-align: center;
+    padding: 2rem;
+}
+
+#avatar{
+    width: 20%;
+}
+
+.linea{
+    height: .25rem;
+    border-radius: 5px;
+}
+
+.fa-star{
+    font-size: 2rem;
+}
+
+.width-max{
+    width: 100%;
+    border-radius: 1rem;
+}
+
+.green{
+    background-color: rgb(26, 188, 156);
+}
+
+.linea-xl{
+    height: 1px;
+}
+
+/* .col{
+    height: 40px;
+    border: .1rem solid white;
+} */
