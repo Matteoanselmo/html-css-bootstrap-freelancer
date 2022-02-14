@@ -46,6 +46,18 @@ header ul li{
     height: 1px;
 }
 
+.my-icon{
+    border: 1px solid white;
+    border-radius: 50%;
+    /* padding: 0.5rem;
+    font-size: 0.7rem; */
+    margin-right: .2rem;
+}
+/* 
+.fa-facebook-f{
+    padding: .5rem .7rem;
+} */
+
 /* .col-xl-4{
     margin-bottom: 1rem;
 }
