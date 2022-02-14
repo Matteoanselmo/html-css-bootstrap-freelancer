@@ -24,6 +24,7 @@ header ul li{
 }
 
 .linea{
+    width: 40%;
     height: .25rem;
     border-radius: 5px;
 }
@@ -44,6 +45,18 @@ header ul li{
 .linea-xl{
     height: 1px;
 }
+
+/* .col-xl-4{
+    margin-bottom: 1rem;
+}
+
+.col-sm-12{
+    margin-bottom: 1rem;
+}
+
+.col-md-6{
+    margin-bottom: 1rem;
+} */
 
 /* .col{
     height: 40px;
